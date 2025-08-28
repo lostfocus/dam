@@ -7606,16 +7606,16 @@
         },
         {
             "name": "symfony/stimulus-bundle",
-            "version": "v2.29.2",
+            "version": "v2.30.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/stimulus-bundle.git",
-                "reference": "7788eaec422c0d606e042e947faff9ed793954c6"
+                "reference": "668b9efe9d0ab8b4e50091263171609e0459c0c8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/stimulus-bundle/zipball/7788eaec422c0d606e042e947faff9ed793954c6",
-                "reference": "7788eaec422c0d606e042e947faff9ed793954c6",
+                "url": "https://api.github.com/repos/symfony/stimulus-bundle/zipball/668b9efe9d0ab8b4e50091263171609e0459c0c8",
+                "reference": "668b9efe9d0ab8b4e50091263171609e0459c0c8",
                 "shasum": ""
             },
             "require": {
@@ -7655,7 +7655,7 @@
                 "symfony-ux"
             ],
             "support": {
-                "source": "https://github.com/symfony/stimulus-bundle/tree/v2.29.2"
+                "source": "https://github.com/symfony/stimulus-bundle/tree/v2.30.0"
             },
             "funding": [
                 {
@@ -7675,7 +7675,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-08-18T09:13:24+00:00"
+            "time": "2025-08-27T15:25:48+00:00"
         },
         {
             "name": "symfony/stopwatch",
@@ -8350,16 +8350,16 @@
         },
         {
             "name": "symfony/ux-autocomplete",
-            "version": "v2.29.2",
+            "version": "v2.30.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/ux-autocomplete.git",
-                "reference": "9e2372ea6858cd21447ce4327094d7dd66a16712"
+                "reference": "b1ac65267d8301c936a19f61e3cbfeedcf4df2c1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/ux-autocomplete/zipball/9e2372ea6858cd21447ce4327094d7dd66a16712",
-                "reference": "9e2372ea6858cd21447ce4327094d7dd66a16712",
+                "url": "https://api.github.com/repos/symfony/ux-autocomplete/zipball/b1ac65267d8301c936a19f61e3cbfeedcf4df2c1",
+                "reference": "b1ac65267d8301c936a19f61e3cbfeedcf4df2c1",
                 "shasum": ""
             },
             "require": {
@@ -8420,7 +8420,7 @@
                 "symfony-ux"
             ],
             "support": {
-                "source": "https://github.com/symfony/ux-autocomplete/tree/v2.29.2"
+                "source": "https://github.com/symfony/ux-autocomplete/tree/v2.30.0"
             },
             "funding": [
                 {
@@ -8440,20 +8440,20 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-08-18T20:25:45+00:00"
+            "time": "2025-08-27T15:25:48+00:00"
         },
         {
             "name": "symfony/ux-twig-component",
-            "version": "v2.29.2",
+            "version": "v2.30.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/ux-twig-component.git",
-                "reference": "dae83d81c6c6be05b9cd906e236ee66c50b8bbb8"
+                "reference": "2f445efda4d4400d4d1911ddf9710c366f339614"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/ux-twig-component/zipball/dae83d81c6c6be05b9cd906e236ee66c50b8bbb8",
-                "reference": "dae83d81c6c6be05b9cd906e236ee66c50b8bbb8",
+                "url": "https://api.github.com/repos/symfony/ux-twig-component/zipball/2f445efda4d4400d4d1911ddf9710c366f339614",
+                "reference": "2f445efda4d4400d4d1911ddf9710c366f339614",
                 "shasum": ""
             },
             "require": {
@@ -8507,7 +8507,7 @@
                 "twig"
             ],
             "support": {
-                "source": "https://github.com/symfony/ux-twig-component/tree/v2.29.2"
+                "source": "https://github.com/symfony/ux-twig-component/tree/v2.30.0"
             },
             "funding": [
                 {
@@ -8527,7 +8527,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-08-14T20:58:41+00:00"
+            "time": "2025-08-27T15:25:48+00:00"
         },
         {
             "name": "symfony/validator",

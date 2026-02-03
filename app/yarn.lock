@@ -6892,9 +6892,9 @@ toidentifier@1.0.1:
   integrity sha512-o5sSPKEkg/DIQNmH43V0/uerLrpzVedkUh8tGNvaeXpfpuwjKenlSox/2O/BTlZUtEe+JG7s5YhEz608PlAHRA==
 
 tom-select@^2.3.1:
-  version "2.4.3"
-  resolved "https://registry.yarnpkg.com/tom-select/-/tom-select-2.4.3.tgz#1daa4131cd317de691f39eb5bf41148265986c1f"
-  integrity sha512-MFFrMxP1bpnAMPbdvPCZk0KwYxLqhYZso39torcdoefeV/NThNyDu8dV96/INJ5XQVTL3O55+GqQ78Pkj5oCfw==
+  version "2.4.4"
+  resolved "https://registry.yarnpkg.com/tom-select/-/tom-select-2.4.4.tgz#4af89d23b102bd050dab654c0378bee60ea67a9c"
+  integrity sha512-r/Baud+mSVQbibYRIOqJJJl7Iwm4aPNLSL5gSZm8Uns/IKY62TrSRCiF5vxUhWv5YFdkW/iyWHKZpWgRxcf7Ww==
   dependencies:
     "@orchidjs/sifter" "^1.1.0"
     "@orchidjs/unicode-variants" "^1.1.2"
